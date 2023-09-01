@@ -20,7 +20,9 @@ Computational Geochemistry | Critical Zone Science | Surface Processes | Solute 
 - B.S. in Geology, University of Benin
 
 ## Projects:
-
+- Geochemical simulation to understand water evolution using PHREEQC software
+- Assessing the effects of temperature and salt contamination in water bodies
+- Geochemical analysis of acid mine drainage and contamination sites
 
 Here are some ideas to get you started:
 
