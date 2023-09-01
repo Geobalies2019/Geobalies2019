@@ -1,3 +1,5 @@
+
+
 ### Hi there 🌄
 Currently, I am a PhD student in the geological and environmental science department at the University of Pittsburgh. I consider myself a dedicated geoscientist, 
 driven by a deep passion for unraveling the Earth's mysteries. My academic foundation is robust, and my hands-on research experience empowers me to excel in the 
@@ -29,3 +31,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  []()
+
+![](https://img.shields.io/github/followers/Geobalies2019)
+
+![](https://img.shields.io/twitter/follow/PegmatiteV)
