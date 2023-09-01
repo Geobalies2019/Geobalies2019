@@ -36,5 +36,6 @@ Here are some ideas to get you started:
   []()
 
 ![](https://img.shields.io/github/followers/Geobalies2019)
-
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ayobali-abiodun)
 ![](https://img.shields.io/twitter/follow/PegmatiteV)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geobalies2019)
