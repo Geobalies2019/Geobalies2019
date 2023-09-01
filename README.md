@@ -1,6 +1,4 @@
-
-
-### Hi there 🌄
+### Hi there 🌄 
 Currently, I am a PhD student in the geological and environmental science department at the University of Pittsburgh. I consider myself a dedicated geoscientist, 
 driven by a deep passion for unraveling the Earth's mysteries. My academic foundation is robust, and my hands-on research experience empowers me to excel in the 
 exploration of our planet's intricate geological processes. My journey in the realm of geosciences has guided me through transformative educational experiences 
