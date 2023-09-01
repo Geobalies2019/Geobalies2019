@@ -5,7 +5,10 @@ Currently, I am a PhD student in the geological and environmental science depart
 driven by a deep passion for unraveling the Earth's mysteries. My academic foundation is robust, and my hands-on research experience empowers me to excel in the 
 exploration of our planet's intricate geological processes. My journey in the realm of geosciences has guided me through transformative educational experiences 
 and enabled me to embark on impactful research endeavors.
-## Research Interets:
+## Research Interets: 
+Environmental Geochemistry | Aquaculture Water Quality | Arsenic and Heavy Metal Geochemistry | Analytical Geochemistry | Aqueous Geochemistry
+Computational Geochemistry | Critical Zone Science | Surface Processes | Solute Transport Modelling | Ensemble Triggers of Landslides
+
 
 
 ## Professional Experience:
