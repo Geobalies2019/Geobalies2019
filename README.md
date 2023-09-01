@@ -39,3 +39,12 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ayobali-abiodun)
 ![](https://img.shields.io/twitter/follow/PegmatiteV)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geobalies2019.Geobalies2019)
+
+
+
+
+
+
+
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Geobalies2019&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Geobalies2019&langs_count=3&hide=javascript,go,html,css,tex)
